@@ -1,3 +1,5 @@
+This repo is no longer maintained.
+Please check out https://github.com/inlab-geo/cofi
 
 # Introduction
 
