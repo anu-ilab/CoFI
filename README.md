@@ -1,6 +1,7 @@
-This repo is no longer maintained.
+**This repo is no longer maintained.**
 Please check out https://github.com/inlab-geo/cofi
 
+----
 # Introduction
 
 These are my main notes on the initial implementation of CoFI. Surely this will all be thrown away and done properly when someone has time to devote to doing it properly, but nevertheless this initial implementation will hopefully serve as a good initial scaffold on which to think clearly about CoFI design and implementation choices.
